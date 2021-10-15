@@ -1,4 +1,8 @@
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
+    .header-wraper {
+        margin-left: 800px;
+        
+    }
     .navigation {
         display: none;}
     .burger-bar {
