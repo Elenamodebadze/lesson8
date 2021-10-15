@@ -13,6 +13,11 @@
     margin-right: 48px;}
 .wraper-li:last-child {
     margin-right: 0;}
+.burger-bar {
+    display: none;
+    font-size: 30px;
+    color:black
+}
 /* section1 styles */
 .head-block {
     width: 1920px;
