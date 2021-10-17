@@ -18,8 +18,3 @@
     .box:nth-child(2) {
         margin: 60px 0;}
 }
-@media(max-width:1024px) {
-    .header-wraper {
-        margin-right: 200px;
-    }
-}
