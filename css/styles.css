@@ -128,13 +128,18 @@
     border-radius: 23px;
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
-    background-color: aliceblue;
     display: flex;
     align-items: center;
-    justify-content: center;}
+    justify-content: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: aliceblue;
+    color: #FFFFFF;}
+
     /*hover  */
 .child-div:hover .image-hover {
     transform: rotate(10deg);}
 .readmore-block :hover {
-    background-color: cadetblue;
-    font-size: 22px; }
+    background-color: #FFFFFF;
+    font-size: 22px;
+    color: black; }
