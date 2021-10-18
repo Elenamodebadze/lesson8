@@ -69,7 +69,8 @@
 .div-text {
     width: 712px;
     margin: 0 auto;
-    text-align: center;}
+    text-align: center;
+    width: 100%;}
 .first-h2 {
     font-size: 20px;
     color: #3D37F1;
