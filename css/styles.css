@@ -133,13 +133,18 @@
     justify-content: center;
     border-style: solid;
     border-width: 1px;
-    border-color: aliceblue;
-    color: #FFFFFF;}
+    border-color: aliceblue;}
+.redmore-a {
+    color: #FFFFFF;
+}
 
     /*hover  */
 .child-div:hover .image-hover {
     transform: rotate(10deg);}
+
 .readmore-block :hover {
     background-color: #FFFFFF;
-    font-size: 22px;
-    color: black; }
+    }
+.redmore-a:hover {
+    color: black;
+    font-size: 18px;}
